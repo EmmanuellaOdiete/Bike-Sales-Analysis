@@ -1,5 +1,5 @@
 # 🚴‍♂️ Bike Sales Analysis (2016–2018)
-![Adidas Sales Analysis Dashboard](https://github.com/user-attachments/assets/8862ca9c-941e-4fa2-8104-0f4db483f1a9)
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/49314d6f-1c22-47d6-90cc-de731addf02e)
 
 ## 🧭 Overview
 
@@ -16,7 +16,7 @@ In today's competitive retail environment, gaining a clear understanding of sale
 
 ## 📂 Access the Dataset
 
-The dataset is publicly available on Kaggle. It includes nine relational tables: brands, categories, customers, orders, order_items, products, staffs, stores, and stocks. The dataset is also available for download directly from the project repository. Simply locate the file titled "Bike_Sales_Dataset.xlsx" in the repository and click the Download button. With full access to the raw data, you can replicate the analysis, explore additional questions, or extend the work with your own insights.
+The dataset is available for download directly from the project repository. Simply locate the file titled "Bike Sales Data Tables.zip" in the repository and click the Download button. It includes nine relational tables: brands, categories, customers, orders, order_items, products, staffs, stores, and stocks. With full access to the raw data, you can replicate the analysis, explore additional questions, or extend the work with your own insights.
 
 ## 📌 Key Findings
 
