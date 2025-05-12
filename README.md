@@ -19,22 +19,27 @@ In today's competitive retail environment, gaining a clear understanding of sale
 The dataset is publicly available on Kaggle. It includes nine relational tables: brands, categories, customers, orders, order_items, products, staffs, stores, and stocks. The dataset is also available for download directly from the project repository. Simply locate the file titled "Bike_Sales_Dataset.xlsx" in the repository and click the Download button. With full access to the raw data, you can replicate the analysis, explore additional questions, or extend the work with your own insights.
 
 ## 📌 Key Findings
+
 🔢 Sales Snapshot
 - Total Revenue: $7.689 million
 - Total Orders: 1,615
 - Units Sold: 7,078
 - Average Order Value: $1,212.71
+
 🚲 Product & Brand Performance
 - Top-Selling Product: Electra Cruiser 1 (24-Inch) - 2016
 - Top 5 Brands: Electra, Trek, Surly, Sun Bicycles, Pure Cycles
 - Most Popular Categories: Cruisers Bicycles, Mountain Bikes, Children Bicycles
+
 🏬 Store & Staff Insights
 - Highest Revenue Store: Baldwin Bikes
 - Top Staff by Orders Processed: Marcelene Boyer
+
 👥 Customer Insights
 - Total Customers: 1,445
 - Highest-Spending Customer: Pamelia Newman
 - Top 5 Customers by Orders: Tameka Fisher, Emmitt Sanchez, Pamelia Newman, Mozelle Carter, Elinore Aguilar
+
 📈 Sales Trends
 - Noticeable revenue spike in April 2018, followed by a steep decline
 - Monthly and yearly revenue trends help reveal seasonal patterns
@@ -42,9 +47,13 @@ The dataset is publicly available on Kaggle. It includes nine relational tables:
 ## 🚀 Recommendations
 
 📌 **Optimize Inventory for Bestsellers:** Focus on top-performing brands (Electra, Trek) and high-demand categories (Cruisers, Mountain Bikes) to avoid stockouts and missed sales.
+
 📌 **Replicate High Store Performance**: Analyze successful practices at Baldwin Bikes and scale them across other locations — from layout to customer service.
+
 📌 **Enhance Customer Engagement**: Introduce loyalty programs and personalized offers to reward high-value customers and boost repeat purchases.
+
 📌 **Empower Staff with Insights**: Provide regular performance dashboards to staff like Marcelene Boyer, enabling motivation and best practice sharing.
+
 📌 **Monitor and Adapt to Trends**: Leverage time-based dashboards to stay alert to seasonal spikes and dips, adjusting promotions and stock levels accordingly.
 
 ## 🔧 Tools & Methodologies
